@@ -1,3 +1,6 @@
+![API Automation](https://img.shields.io/badge/API-RestAssured-green)
+![Postman](https://img.shields.io/badge/Postman-Collection-orange)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-black)
 # API Automation – Postman & RestAssured
 
 Enterprise-grade API automation framework using **Postman**, **Newman**, and **RestAssured**.
